@@ -14,7 +14,7 @@ Aspiring IT professional with a strong passion for technology and a Love for tro
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Installed and configured a Windows Server Domain Controller to provide centralized management via Active Directory. | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
-| Splunk + Active Directory | <a href="https://github.com/0xNotna/Active-Directory-Lab">In Progress</a>|
+| Splunk + Active Directory | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
 
 
 ## Tools
