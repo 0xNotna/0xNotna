@@ -53,4 +53,5 @@ Aspiring IT professional with a strong passion for technology and a Love for tro
 
 ## Projects
 <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
-- Splunk + AD Lab
+
+<a href="https://github.com/0xNotna/Splunk-AD-Lab">Splunk + AD<a>
