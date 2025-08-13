@@ -14,7 +14,7 @@ Currently building skills through certifications and projects, and seeking an en
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Installed and configured a Windows Server Domain Controller to provide centralized management via Active Directory. | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
-| Splunk + Active Directory | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
+| Simulated AD Attack Detection | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
 
 
 ## Tools
@@ -54,4 +54,4 @@ Currently building skills through certifications and projects, and seeking an en
 ## Projects
 <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
 
-<a href="https://github.com/0xNotna/Splunk-AD-Lab">Splunk + AD<a>
+<a href="https://github.com/0xNotna/Splunk-AD-Lab">Simulated AD Attack Detection<a>
