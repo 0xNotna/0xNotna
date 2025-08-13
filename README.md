@@ -52,5 +52,5 @@ Aspiring IT professional with a strong passion for technology and a Love for tro
 </div>
 
 ## Projects
-- <a href="https://google.com](https://github.com/0xNotna/Active-Directory-Lab">Active Diretory</a>
+- <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Diretory</a>
 - Splunk + AD Lab
