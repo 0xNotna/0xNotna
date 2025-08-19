@@ -1,7 +1,7 @@
 # Hey There, I'm Anton
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm an aspiring IT professional transitioning from a Customer Service/Delivery Driving background into tech. My interest in IT started years ago through gaming (Runescape) and grew into a genuine passion for troubleshooting, systems, and cybersecurity.
+I'm an aspiring IT professional transitioning from a Customer Service/Delivery Driving background into tech. My interest in IT started years ago and grew into a genuine passion for troubleshooting, systems, and cybersecurity.
 
 Now I'm focused on building real-world skills through labs, personal projects, and certifications like CompTIA A+, Network+, and Security+. This GitHub is where I share what I’m learning and working on as I pursue a career in IT.
 
