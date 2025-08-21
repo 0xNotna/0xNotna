@@ -7,6 +7,12 @@
 
 #### 💻 Currently building skills through projects and certifications, seeking an entry-level position to apply and grow my technical expertise.
 
+##### Certifications on my roadmap 
+###### ![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-blue?logo=microsoft-azure&logoColor=white)
+
+
+
+
 
 
 ## Skills
