@@ -13,7 +13,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| On Prem Active Directory Install and Config. | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
+| Installing and configuring on-prem Windows Server, Active Directory, NTFS security, and drive mapping. | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
 | EntraID, Intune, Office 365 lab. | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
 
 
