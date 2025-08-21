@@ -1,13 +1,13 @@
-# Hey There, I'm Anton
+# 🥇 Welcome! I'm Anton.
+#### With a background in customer service and delivery driving, I'm now transitioning into IT, a field I've been drawn to for years. What started as a personal interest in tech and troubleshooting has grown into a strong passion for systems and cybersecurity, and I'm actively building the skills to turn that passion into a professional path.
+
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-I'm an aspiring IT professional transitioning from a Customer Service/Delivery Driving background into tech. My interest in IT started years ago and grew into a genuine passion for troubleshooting, systems, and cybersecurity.
-
-Now I'm focused on building real-world skills through labs, personal projects, and certifications like CompTIA A+, Network+, and Security+. This GitHub is where I share what I’m learning and working on as I pursue a career in IT.
 
 ## Objective
 
-Currently building skills through certifications and projects, and seeking an entry-level role to apply and grow my technical expertise.
+#### 💻 Currently building skills through projects and certifications, seeking an entry-level position to apply and grow my technical expertise.
+
+
 
 ## Skills
 
