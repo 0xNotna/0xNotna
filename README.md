@@ -57,6 +57,11 @@
 <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
+<!-- AZ-900 -->
+<img src="https://img.shields.io/badge/Microsoft%20AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+
+
 ## Projects
 <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
 
