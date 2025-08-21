@@ -5,9 +5,9 @@
 
 ## Objective
 
-#### 💻 Currently building skills through projects and certifications, seeking an entry-level position to apply and grow my technical expertise.
+##### 💻 Currently building skills through projects and certifications, seeking an entry-level position to apply and grow my technical expertise.
 
-##### Certifications on my roadmap 
+##### 🗺️ Certifications on my roadmap 
 ###### ![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-blue?logo=microsoft-azure&logoColor=white)
 
 
@@ -15,28 +15,36 @@
 
 
 
-## Skills
+## ⛲Foundational Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Installing and configuring on-prem Windows Server, Active Directory, NTFS security, and drive mapping. | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
-| EntraID, Intune, Office 365 lab. | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
+| Entra ID, Intune, Office 365 lab. | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
 
+## 🧪 Advanced Labs
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|                                          TBA                                              |              TBA             |
+|                                          TBA                                              |              TBA             |
 
 ## Tools
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/SSH-333333?style=for-the-badge&logo=OpenSSH&logoColor=white" />
     <img src="https://img.shields.io/badge/RDP-0078D4?style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/Sysmon-800080?style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
 
 </div>
 
