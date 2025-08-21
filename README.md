@@ -54,4 +54,4 @@
 ## Projects
 <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
 
-<a href="https://github.com/0xNotna/Splunk-AD-Lab">Simulated AD Attack Detection<a>
+<a href="https://github.com/0xNotna/Splunk-AD-Lab">EntraID & Intune Lab<a>
