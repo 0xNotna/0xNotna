@@ -13,8 +13,8 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Installed and configured a Windows Server Domain Controller to provide centralized management via Active Directory. | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
-| Simulated AD Attack Detection | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
+| On Prem Active Directory Install and Config. | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
+| EntraID, Intune, Office 365 lab. | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
 
 
 ## Tools
