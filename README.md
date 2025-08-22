@@ -23,7 +23,7 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Installing and configuring on-prem Windows Server, Active Directory, NTFS security, and drive mapping. | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
-| Entra ID, Intune, Office 365 lab. | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
+| Cloud Based SOC Lab | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
 
 ## 🧪 Advanced Labs
 
