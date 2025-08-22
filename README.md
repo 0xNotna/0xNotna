@@ -9,6 +9,9 @@
 
 ##### 🗺️ Certifications on my roadmap 
 ###### ![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-blue?logo=microsoft-azure&logoColor=white)
+###### ![SANS GIAC](https://img.shields.io/badge/SANS-GIAC-darkblue?logo=security&logoColor=white&style=flat-square)
+
+
 
 
 
