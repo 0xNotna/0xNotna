@@ -29,7 +29,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|                                          TBA                                              |              TBA             |
+|   Lima Charlie EDR + Intune with report                                               |             Coming Soon            |
 |                                          TBA                                              |              TBA             |
 
 ## Tools
