@@ -22,15 +22,14 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Installing and configuring on-prem Windows Server, Active Directory, NTFS security, and drive mapping. | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
-| Cloud Based SOC Lab | <a href="https://github.com/0xNotna/Splunk-AD-Lab">In Progress</a>|
+| Install and Config AD | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
 
 ## 🧪 Advanced Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|   Lima Charlie EDR + Intune with report                                               |             Coming Soon            |
-|                                          TBA                                              |              TBA             |
+|   Lima Charlie SOAR EDR Lab                                                               |             Coming Soon            |
+|                                          TBA                                              |              TBA                   |
 
 ## Tools
 
@@ -71,9 +70,9 @@
 <!-- AZ-900 -->
 <img src="https://img.shields.io/badge/Microsoft%20AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
-
+<img width="100" height="100" alt="5e698a09-9e8d-40a1-be56-bad2e5cf2ba6" src="https://github.com/user-attachments/assets/29c24edd-af5a-477c-ac55-2fa2b3ac9313" />
 
 ## Projects
 <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
 
-<a href="https://github.com/0xNotna/Splunk-AD-Lab">EntraID & Intune Lab<a>
+<a href="https://github.com/0xNotna/Splunk-AD-Lab">Lima-Charlie EDR Lab<a>
