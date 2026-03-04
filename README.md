@@ -1,15 +1,13 @@
 # 🥇 Welcome! I'm Anton.
-#### Write ups, Porjects and more
+#### My portfolio of labs and projects
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 ## Objective
 
-##### 💻 Currently building skills through projects and certifications, seeking an entry-level position to apply and grow my technical expertise.
+##### 💻 Cut the noise, provide outcomes 
 
 ##### 🗺️ Certifications 
-###### ![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-blue?logo=microsoft-azure&logoColor=white)
-###### ![SANS GIAC](https://img.shields.io/badge/SANS-GIAC-darkblue?logo=security&logoColor=white&style=flat-square)
 
 
 
@@ -17,18 +15,17 @@
 
 
 
+## ⛲Investigation Labs
 
-## ⛲Foundational Labs
+| Name                                         | Associated Lab         |
+|-----------------------------------------------|----------------------------|
+| Investigate a trojanized game installer | <a href="https://github.com/0xNotna/Active-Directory-Lab">Maranao Lab</a>
+
+## 🧪 Intermediate Investigation Labs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Install and Config AD | <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
-
-## 🧪 Advanced Labs
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|   Maranhao Lab                                                               |             Coming Soon            |
+|   this is a test                                                              |             Coming Soon            |
 |                                          TBA                                              |              TBA                   |
 
 ## Tools
