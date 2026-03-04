@@ -28,7 +28,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|   Lima Charlie SOAR EDR Lab                                                               |             Coming Soon            |
+|   Maranhao Lab                                                               |             Coming Soon            |
 |                                          TBA                                              |              TBA                   |
 
 ## Tools
